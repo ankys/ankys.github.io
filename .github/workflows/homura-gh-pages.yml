@@ -40,7 +40,8 @@ jobs:
         uses: actions/cache@v3
         with:
           path: _site
-          key: site-${{ hashFiles('**') }}
+          # key: site-${{ hashFiles('**') }}
+          key: site
       - name: Setup Deno
         uses: denoland/setup-deno@v1
         # uses: denoland/setup-deno@004814556e37c54a2f6e31384c9e18e983317366
