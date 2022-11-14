@@ -25,4 +25,5 @@ dynamics:
     engine: t,md
     layout: default
 ignores:
+  - .*
   - _deploy.sh
