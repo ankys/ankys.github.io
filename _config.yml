@@ -1,0 +1,28 @@
+engines:
+  - name: t
+    url: ./nunjucks.ts#convert
+  - name: njk
+    url: ./nunjucks.ts#convert
+  - name: md
+    url: ./markdown.ts#convert
+  - name: relurl
+    url: ./relurl.ts#convert
+layouts:
+  - name: default
+    file: default.t.html
+    engine: t,relurl
+dynamics:
+  # - pattern: .t
+  #   replace: ""
+  #   engine: t
+  #   layout: ""
+  - pattern: .t.html
+    replace: .html
+    engine: t
+    layout: default
+  - pattern: .t.md
+    replace: .html
+    engine: t,md
+    layout: default
+ignores:
+  - _deploy.sh

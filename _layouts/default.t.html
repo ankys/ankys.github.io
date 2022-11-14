@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html{% if lang %} lang="{{ lang }}"{% endif %}>
+<head>
+<meta charset="utf-8" />
+<title>{{ [title, site.title] | select | join(" | ") }}</title>
+<meta name="author" content="{{ author or site.author }}" />
+<meta name="keywords" content="{{ [keywords | default([]) | join(", "), site.keywords | default([]) | join(", ")] | select | join(", ") }}" />
+<meta name="description" content="{{ [description, site.description] | select | join("\n") }}" />
+<link rel="stylesheet" href="/default.css">
+</head>
+<body>
+<div style="max-width: 50em; margin-left: auto; margin-right: auto;">
+<header>
+<nav id="main-nav">
+<div v-if="false">{{ title or path }}</div>
+<div v-cloak><span v-for="item in parents"><a v-bind:href="item.url" v-bind:title="item.description">[[ item.title ]]</a><span v-if="item.children.length > 0" v-on:click="list.push({ x: $event.x, y: $event.y, items: item.children.map(getInfo) })"> &gt; </span></span></div>
+<ul v-cloak v-for="entry in list" class="menu" v-bind:style="'display:inline-block;position:absolute;left:' + entry.x + 'px;top:' + entry.y + 'px'"><li v-for="item in entry.items"><a v-bind:href="item.url" v-bind:title="item.description">[[ item.title ]]</a><span v-if="item.children.length > 0" v-on:click="list.push({ x: $event.x, y: $event.y, items: item.children.map(getInfo) })"> &gt; </span></li></ul>
+</nav>
+<script type="text/plain" id="main-nav-info">{{ path | pathname }}</script>
+</header>
+
+<hr />
+
+<article>
+{{ content | replace("@@@", "<i class=\"fa fa-at\"></i>") | safe }}
+</article>
+
+<hr />
+
+<footer style="font-size: small;">
+<div>{% if site.url %}<code>{{ ("." + path | pathname) | url(site.url) }}</code>{% endif %}</div>
+<div>Last modified: <code>{{ mtime }}</code>.</div>
+</footer>
+</div>
+</body>
+<script src="https://kit.fontawesome.com/d9f4fb551b.js" crossorigin="anonymous"></script>
+<!-- <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script> -->
+<script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+<script src="/directory.js"></script>
+<script src="/main.js"></script>
+</html>
