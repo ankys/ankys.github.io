@@ -35,7 +35,8 @@ jobs:
           path: |
             ~/.deno
             ~/.cache/deno
-          key: ${{ runner.os }}-deno-${{ hashFiles('**/deps.ts') }}
+          # key: ${{ runner.os }}-deno-${{ hashFiles('**/deps.ts') }}
+          key: deno
       - name: Setup Caches site
         uses: actions/cache@v3
         with:
