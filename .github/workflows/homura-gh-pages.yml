@@ -37,7 +37,8 @@ jobs:
         uses: actions/cache@v3
         with:
           path: .
-          key: site-${{ hashFiles('**') }}
+          # key: site-${{ hashFiles('**') }}
+          key: site-$(date --iso-8601=seconds)
           # key: site
       - name: Checkout
         uses: actions/checkout@v3
