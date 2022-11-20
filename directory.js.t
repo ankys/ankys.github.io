@@ -3,7 +3,7 @@ parent: "?"
 ---
 
 var directoryInfoItems = [
-  {%- for path in pages() %}
+  {%- for path in pages() | sort %}
   {%- set page = path | value %}
   {
     "url": "{{ path | pathname }}",
