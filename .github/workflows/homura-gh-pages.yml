@@ -41,7 +41,7 @@ jobs:
       - name: Setup Caches site
         uses: actions/cache@v3
         with:
-          path: "$HOME/site"
+          path: ~/site
           # key: site-${{ hashFiles('**') }}
           # key: "site-$(date --iso-8601=seconds)"
           key: site
@@ -63,7 +63,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: "$HOME/site"
+          path: ~/site
       # - name: Test Cache
       #   run: ls -l
 
