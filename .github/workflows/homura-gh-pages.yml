@@ -33,19 +33,24 @@ jobs:
             ~/.cache/deno
           key: ${{ runner.os }}-deno-${{ hashFiles('**/deps.ts') }}
           # key: deno
-      - name: Setup Caches site
+      - name: Setup Caches repo
         uses: actions/cache@v3
         with:
           path: .
+          key: repo
+      - name: Setup Caches site
+        uses: actions/cache@v3
+        with:
+          path: "$HOME/site"
           # key: site-${{ hashFiles('**') }}
-          key: "site-$(date --iso-8601=seconds)"
-          # key: site
+          # key: "site-$(date --iso-8601=seconds)"
+          key: site
       - name: Checkout
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
-      - name: Test Checkout
-        run: ls -l
+      # - name: Test Checkout
+      #   run: ls -l
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Setup Deno
@@ -54,11 +59,13 @@ jobs:
         with:
           deno-version: v1.x
       - name: Build with Homura
-        run: deno run -A https://deno.land/x/homura_deno/homura.ts build
+        run: deno run -A https://deno.land/x/homura_deno/homura.ts build -d="$HOME/site"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
-      - name: Test Cache
-        run: ls -l
+        with:
+          path: "$HOME/site"
+      # - name: Test Cache
+      #   run: ls -l
 
   # Deployment job
   deploy:
