@@ -31,14 +31,14 @@ jobs:
           path: |
             ~/.deno
             ~/.cache/deno
-          # key: ${{ runner.os }}-deno-${{ hashFiles('**/deps.ts') }}
-          key: deno
+          key: ${{ runner.os }}-deno-${{ hashFiles('**/deps.ts') }}
+          # key: deno
       - name: Setup Caches site
         uses: actions/cache@v3
         with:
           path: .
-          # key: site-${{ hashFiles('**') }}
-          key: site
+          key: site-${{ hashFiles('**') }}
+          # key: site
       - name: Checkout
         uses: actions/checkout@v3
         with:
