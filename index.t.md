@@ -2,6 +2,7 @@
 title: Home
 ---
 
+
 ## 中安淳 (Atsushi NAKAYASU, Ph.D.)
 
 <div class="leftfloatbox" style="width:30%;max-width:20em;text-align:center;">
