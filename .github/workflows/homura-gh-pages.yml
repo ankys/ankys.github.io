@@ -61,7 +61,7 @@ jobs:
       - name: Build with Homura
         run: deno run -A https://deno.land/x/homura_deno/homura.ts build -d="$HOME/site"
       - name: Test site
-        run: ls -l ~
+        run: ls -l ~ ~/site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
