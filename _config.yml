@@ -26,4 +26,5 @@ dynamics:
     layout: default
 ignores:
   - .*
-  - /_deploy.sh
+  - _*
+  # - /_deploy.sh
