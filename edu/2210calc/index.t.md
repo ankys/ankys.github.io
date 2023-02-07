@@ -17,7 +17,7 @@ title: 2022年度京都大学微分積分学（演義）B
 4. 第4回（11月16日授業、11月30日締め切り）　[問題と宿題](phi1phi2_4_problem.pdf)　[問題解答例](phi1phi2_4_solution_a.pdf)　[宿題解答例](phi1phi2_4_solution_b.pdf)
 5. 第5回（12月7日授業、12月14日締め切り）　[問題と宿題](phi1phi2_5_problem.pdf)　[問題解答例](phi1phi2_5_solution_a.pdf)　[宿題解答例](phi1phi2_5_solution_b.pdf)
 6. 第6回（12月21日授業、1月4日締め切り）　[問題と宿題](phi1phi2_6_problem.pdf)　[問題解答例](phi1phi2_6_solution_a.pdf)　[宿題解答例](phi1phi2_6_solution_b.pdf)
-7. 第7回（1月11日授業、1月18日締め切り）　[問題と宿題](phi1phi2_7_problem.pdf)　[問題解答例](phi1phi2_7_solution_a.pdf)　宿題解答例
+7. 第7回（1月11日授業、1月18日締め切り）　[問題と宿題](phi1phi2_7_problem.pdf)　[問題解答例](phi1phi2_7_solution_a.pdf)　[宿題解答例](phi1phi2_7_solution_b.pdf)
 
 ## 配布物（T5/T6クラス）
 
