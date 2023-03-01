@@ -9,7 +9,7 @@ title: 経歴
 * 〒606-8502　京都市左京区北白川追分町　京都大学理学部数学教室
 * `ankysp@@@gmail.com`
   `ankys@@@math.kyoto-u.ac.jp`
-* `https://www.math.kyoto-u.ac.jp/~ankys/`
+* `https://ankys.github.io/`
   [](https://www.researchgate.net/profile/Atsushi_Nakayasu)
   [](https://github.com/ankys)
 * Tel: `075-753-3731`
@@ -26,6 +26,9 @@ title: 経歴
 
 ## 職歴
 
+* *2019年10月～2020年3月*：
+  **非常勤講師**、
+  大阪大学基礎工学部（大阪）。
 * *2019年4月～現在*：
   **特定助教**、
   京都大学大学院理学研究科数学教室（京都）。

@@ -2,11 +2,10 @@
 title: Home
 ---
 
-
 ## 中安淳 (Atsushi NAKAYASU, Ph.D.)
 
 <div class="leftfloatbox" style="width:30%;max-width:20em;text-align:center;">
-<img src="profile/img/portrait_20160627.jpg" style="width:70%;" />
+<img src="profile/img/portrait_20160627.jpg" style="width:70%;border-radius:50%;" />
 <br/>
 <q>
 才能に機会を、努力に対価を
@@ -115,7 +114,7 @@ Email:
 `ankysp@@@gmail.com`
 `ankys@@@math.kyoto-u.ac.jp`  
 Website:
-`https://www.math.kyoto-u.ac.jp/~ankys/`
+`https://ankys.github.io/`
 [](https://www.researchgate.net/profile/Atsushi_Nakayasu)
 [](https://github.com/ankys)
 
