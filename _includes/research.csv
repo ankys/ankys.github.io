@@ -63,17 +63,21 @@ date,lang,type,review,author,title,meeting,place,city,country,url
 
 @interact
 begin,end,days,lang,host,workshop,title,place,city,country,url
-2016/9/3,2016/9/11,9,en,,1,"International conference on PDE ""TOWARDS REGULARITY""",Institute of Mathematics Polish Academy of Sciences?ja=ポーランド科学アカデミー,Warsaw?ja=ワルシャワ,PL,
-2016/7/24,2016/7/30,7,en,,1,The Shanghai Workshop on Hamilton-Jacobi equations,Fudan University?ja=復旦大学,Shanghai?ja=上海,CN,
-2016/5/29,2016/6/3,6,en,,1,HJ2016: Hamilton-Jacobi Equations: new trends and applications,INSA Rennes?ja=国立応用科学院レンヌ校,Rennes?ja=レンヌ,FR,
-2016/3/11,2016/3/13,3,en,,1,A3 Joint Seminar on Inverse Problems,Fudan University?ja=復旦大学,Shanghai?ja=上海,CN,
-2015/12/16,2015/12/20,5,en,,1,International Workshop on Calculus of Variations and its Applications,New University of Lisbon,Caparica?ja=カパリカ,PT,
-2015/10/19,2015/10/23,5,en,,,Piotr Rybka,University of Warsaw?ja=ワルシャワ大学,Warsaw?ja=ワルシャワ,PL,
+2023/3/13,2023/3/24,12,ja,1,,牧田慎平,京都大学,京都,JP,
+2023/1/30,2023/1/31,2,en,1,1,The 8th KTGU Mathematics Workshop for Young Researchers,Kyoto University,Kyoto,JP,https://www.math.kyoto-u.ac.jp/workshop/ktgu_yr/8thWorkshop/
+2022/2/14,2022/2/15,2,en,1,1,The 7th KTGU Mathematics Workshop for Young Researchers,Kyoto University,Kyoto,JP,https://www.math.kyoto-u.ac.jp/workshop/ktgu_yr/7thWorkshop/
+2016/9/3,2016/9/11,9,en,,1,"International conference on PDE ""TOWARDS REGULARITY""",Institute of Mathematics Polish Academy of Sciences?ja=ポーランド科学アカデミー,Warsaw?ja=ワルシャワ,PL,https://towardsregularity.impan.pl/
+2016/7/24,2016/7/30,7,en,,1,The Shanghai Workshop on Hamilton-Jacobi equations,Fudan University?ja=復旦大学,Shanghai?ja=上海,CN,http://maths.nju.edu.cn/~dynamics/fudan_2016/
+2016/5/29,2016/6/3,6,en,,1,HJ2016: Hamilton-Jacobi Equations: new trends and applications,INSA Rennes?ja=国立応用科学院レンヌ校,Rennes?ja=レンヌ,FR,https://hj2016.sciencesconf.org/
+2016/3/11,2016/3/13,3,en,,1,A3 Joint Seminar on Inverse Problems,Fudan University?ja=復旦大学,Shanghai?ja=上海,CN,https://www.ms.u-tokyo.ac.jp/a3inverse/docs/92e24ec56ede60b97c4a4e5a4df6b67212cff170.pdf
+2015/12/16,2015/12/20,5,en,,1,International Workshop on Calculus of Variations and its Applications,New University of Lisbon,Caparica?ja=カパリカ,PT,https://eventos.fct.unl.pt/cvamascar/
+2015/10/19,2015/10/23,5,en,,,Piotr Rybka,University of Warsaw?ja=ワルシャワ大学,Warsaw?ja=ワルシャワ,PL,https://www.mimuw.edu.pl/~rybka/
 2015/10/14,2015/10/17,4,en,,1,Anisotropy 2015,Institute of Mathematics Polish Academy of Sciences?ja=ポーランド科学アカデミー,Warsaw?ja=ワルシャワ,PL,
-2015/8/9,2015/8/14,6,en,,1,The 8th International Congress on Industrial and Applied Mathematics,China National Convention Center?ja=北京国家会議センター,Beijing?ja=北京,CN,
+2015/8/9,2015/8/14,6,en,,1,The 8th International Congress on Industrial and Applied Mathematics,China National Convention Center?ja=北京国家会議センター,Beijing?ja=北京,CN,http://www.iciam2015.cn/
 2015/6/21,2015/6/27,7,en,,1,"The Hamilton-Jacobi Equation: At the crossroads of PDE, dynamical systems & geometry",Il Palazzone,Cortona?ja=コルトナ,IT,
-2014/12/12,2014/12/14,3,en,,1,Seoul-Tokyo Conference Applied Partial Differential Equations: Theory and Applications,Korea Institute for Advanced Study?ja=高等科学院,Seoul?ja=ソウル,KR,
+2015/3/5,2015/3/6,2,ja,1,1,FMSP院生集中講義,東京大学,東京,JP,http://fmsp.ms.u-tokyo.ac.jp/FMSP1503.pdf
+2014/12/12,2014/12/14,3,en,,1,Seoul-Tokyo Conference Applied Partial Differential Equations: Theory and Applications,Korea Institute for Advanced Study?ja=高等科学院,Seoul?ja=ソウル,KR,https://www.ms.u-tokyo.ac.jp/a3inverse/docs/323a38c269ab9355c1964251dd74ed1c9ed84162.pdf
 2014/11/8,2014/11/15,8,en,,,Antonio Siconolfi,Sapienza University of Rome?ja=ローマ・ラ・サピエンツァ大学,Rome?ja=ローマ,IT,
-2014/10/14,2014/11/8,26,en,,,Piotr Rybka,University of Warsaw?ja=ワルシャワ大学,Warsaw?ja=ワルシャワ,PL,
-2014/2/20,2014/3/28,37,en,,,Juan J. Manfredi,University of Pittsburgh?ja=ピッツバーグ大学,Pittsburgh?ja=ピッツバーグ,US,
-2013/3/24,2013/3/30,7,en,,1,"Interfaces and Free Boundaries: Analysis, Control and Simulation",Mathematical Research Institute of Oberwolfach?ja=オーバーヴォルファッハ数学研究所,Oberwolfach?ja=オーバーヴォルファッハ,DE,
+2014/10/14,2014/11/8,26,en,,,Piotr Rybka,University of Warsaw?ja=ワルシャワ大学,Warsaw?ja=ワルシャワ,PL,https://www.mimuw.edu.pl/~rybka/
+2014/2/20,2014/3/28,37,en,,,Juan J. Manfredi,University of Pittsburgh?ja=ピッツバーグ大学,Pittsburgh?ja=ピッツバーグ,US,https://sites.pitt.edu/~manfredi/
+2013/3/24,2013/3/30,7,en,,1,"Interfaces and Free Boundaries: Analysis, Control and Simulation",Mathematical Research Institute of Oberwolfach?ja=オーバーヴォルファッハ数学研究所,Oberwolfach?ja=オーバーヴォルファッハ,DE,https://www.mfo.de/occasion/1313/www_view
