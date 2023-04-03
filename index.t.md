@@ -90,7 +90,8 @@ Traffic flow
 
 京都大学国際高等教育院（特定助教） [](https://www.z.k.kyoto-u.ac.jp/)
 
-* [2022年度京都大学微分積分学（演義）B](edu/2210calc/)
+* [2023年度京都大学線形代数学（演義）A](edu/2304lina/)
+* [2023年度同志社大学線形代数](edu/2304linad/)
 
 [全ての授業](edu/)
 
@@ -100,7 +101,7 @@ Traffic flow
 
 ## ノート (Notes)
 
-* [微分積分学１](notes/calc1t.pdf)：一変数微分積分学 [](https://github.com/ankys/calc1t)
+* [微分積分学１](notes/calc1t.pdf)：一変数の微分積分学 [](https://github.com/ankys/calc1t)
 * [二スケール収束とその周辺](notes/tsconvn.pdf) [](https://github.com/ankys/tsconvn)
 
 ## ソフトウェア (Software)
