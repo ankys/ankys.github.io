@@ -1,0 +1,79 @@
+﻿publications
+author,title,lang,status,preprint,review,journal,year,volume,issue,pages
+Atsushi Nakayasu?c=nakayasu,Two approaches to minimax formula of the additive eigenvalue for quasiconvex Hamiltonians,en,accepted,arXiv:1412.6735,1,Proceedings of the American Mathematical Society?s=Proc. Amer. Math. Soc.,Feb-19,147,2,701-710
+Qing Liu?c=liu; Atsushi Nakayasu?c=nakayasu,Convexity preserving properties for Hamilton-Jacobi equations in geodesic spaces,en,accepted,arXiv:1710.00504,1,Discrete and Continuous Dynamical Systems?s=Discrete Contin. Dyn. Syst.,Jan-19,39,1,157-183
+Atsushi Nakayasu?c=nakayasu; Tokinaga Namba?c=namba,Stability properties and large time behavior of viscosity solutions of Hamilton-Jacobi equations on metric spaces,en,published,arXiv:1602.00530,1,Nonlinearity,2018,31,11,5147-5161
+Atsushi Nakayasu?c=nakayasu; Piotr Rybka?c=rybka,Integrability of the derivative of solutions to a singular one-dimensional parabolic problem,en,published,arXiv:1705.08469,1,Topological Methods in Nonlinear Analysis?s=Topol. Methods Nonlinear Anal.,2018,52,1,239-257
+蕭冬遠; 張龍傑; 中安淳; 若林泰央,協同組合の数理解析,ja,published,,1,数理科学実践研究レター,2018,,,LMSR 2018-8
+Atsushi Nakayasu?c=nakayasu; Piotr Rybka?c=rybka,Energy solutions to one-dimensional singular parabolic problems with BV data are viscosity solutions,en,published,arXiv:1603.07502,1,Mathematics for Nonlinear Phenomena - Analysis and Computation,2017,,,195-213
+Nao Hamamuki?c=hamamuki; Atsushi Nakayasu?c=nakayasu; Tokinaga Namba?c=namba,On cell problems for Hamilton-Jacobi equations with non-coercive Hamiltonians and their application to homogenization problems,en,published,arXiv:1409.5514,1,Journal of Differential Equations?s=J. Differential Equations,2015,259,11,6672-6693
+Yoshikazu Giga?c=giga; Nao Hamamuki?c=hamamuki; Atsushi Nakayasu?c=nakayasu,Eikonal equations in metric spaces,en,published,Hokkaido University Preprint Series in Mathematics #991,1,Transactions of the American Mathematical Society?s=Trans. Amer. Math. Soc.,2015,367,1,49-66
+Atsushi Nakayasu?c=nakayasu,Metric viscosity solutions for Hamilton-Jacobi equations of evolution type,en,published,arXiv:1407.7634,1,Advances in Mathematical Sciences and Applications?s=Adv. Math. Sci. Appl.,2014,24,2,333-351
+Mi-Ho Giga?c=giga; Yoshikazu Giga?c=giga; Atsushi Nakayasu?c=nakayasu,On general existence results for one-dimensional singular diffusion equations with spatially inhomogeneous driving force,en,published,Hokkaido University Preprint Series in Mathematics #1032,1,"Geometric Partial Differential Equations proceedings, CRM Series, Vol. 15, Scuola Normale Superiore Pisa, Pisa",2013,15,,145-170
+
+presentations
+date,lang,type,review,author,title,meeting,place,city,country,url
+2022/2/8,ja,talk,,中安淳?c=nakayasu,Homogenization of Hamilton-Jacobi equations on the Sierpinski gasket,東北大学幾何セミナー,東北大学,仙台,JP,https://sites.google.com/site/aobageometry/
+2021/11/12,ja,talk,,中安淳?c=nakayasu,Homogenization of Hamilton-Jacobi equations on the Sierpinski gasket,偏微分方程式セミナー,北海道大学,札幌,JP,https://www2.sci.hokudai.ac.jp/dept/math/event/7622
+2021/10/5,ja,talk,,中安淳?c=nakayasu,Homogenization of Hamilton-Jacobi equations on the Sierpinski gasket,NLPDEセミナー,京都大学,京都,JP,https://www.math.kyoto-u.ac.jp/ja/event/seminar/4723
+2021/9/15,ja,talk,,中安淳?c=nakayasu,Homogenization of Hamilton-Jacobi equations on the Sierpinski gasket,日本数学会2021年度秋季総合分科会,千葉大学,千葉,JP,https://www.mathsoc.jp/activity/meeting/chiba21sept/
+2021/4/21,ja,talk,,中安淳?c=nakayasu,距離空間上のハミルトン・ヤコビ方程式,数学教室談話会,京都大学,京都,JP,https://www.math.kyoto-u.ac.jp/ja/event/seminar/4604
+2020/12/8,en,talk,,Atsushi Nakayasu?c=nakayasu,Convexity preserving properties for Hamilton–Jacobi equations in geodesic spaces,Partial Differential Equations under Various Metrics,Okinawa Institute of Science and Technology Graduate University,Okinawa?ja=沖縄,JP,https://groups.oist.jp/aoms/mini-symposium
+2020/2/7,en,talk,,Atsushi Nakayasu?c=nakayasu,Convexity preserving properties for Hamilton–Jacobi equations in geodesic spaces,The 5th KTGU Mathematics Workshop for Young Researchers,Kyoto University?ja=京都大学,Kyoto?ja=京都,JP,https://www.math.kyoto-u.ac.jp/~k.takao/KTGU/5thWorkshop/
+2019/5/10,ja,talk,,中安淳?c=nakayasu,Convexity preserving properties for Hamilton-Jacobi equations in geodesic spaces,NLPDEセミナー,京都大学,京都,JP,https://www.math.kyoto-u.ac.jp/ja/event/seminar/3895
+2017/1/31,en,talk,,Atsushi Nakayasu?c=nakayasu,Convexity preserving properties for Hamilton-Jacobi equations in geodesic spaces,The 34th Kyushu Symposium on Partial Differential Equations?ja=第34回九州における偏微分方程式研究集会,Kyushu University?ja=九州大学,Fukuoka?ja=福岡,JP,http://www2.math.kyushu-u.ac.jp/FE-Seminar/kyu-pde/
+2016/10/12,en,talk,,Atsushi Nakayasu?c=nakayasu,Stability property and large time behavior of viscosity solutions to Hamilton-Jacobi equations on metric spaces,発展方程式論とその非線形解析への応用,京都大学,京都,JP,http://www.kurims.kyoto-u.ac.jp/~kyodo/ishii20160901j.pdf
+2016/9/9,en,talk,,Atsushi Nakayasu?c=nakayasu,Stability properties and large time behavior of viscosity solutions of Hamilton-Jacobi equations on metric spaces,"International conference on PDE ""TOWARDS REGULARITY""",Institute of Mathematics Polish Academy of Sciences?ja=ポーランド科学アカデミー,Warsaw?ja=ワルシャワ,PL,http://towardsregularity.impan.pl/
+2016/8/28,ja,talk,,中安淳?c=nakayasu,Hamilton-Jacobi equations in generalized spaces,第63回幾何学シンポジウム,岡山大学,岡山,JP,http://www.math.okayama-u.ac.jp/~geometry-symposium-2016/
+2016/7/29,en,talk,,Atsushi Nakayasu?c=nakayasu,Homogenization and cell problems for noncoercive quasiconvex Hamiltonians,The Shanghai Workshop on Hamilton-Jacobi equations,Fudan University?ja=復旦大学,Shanghai?ja=上海,CN,
+2016/7/21,en,talk,,Atsushi Nakayasu?c=nakayasu,A viscosity approach for fully nonlinear PDEs with fractional time derivatives,Nonlinear PDE satellite Workshop,Tohoku University?ja=東北大学,Sendai?ja=仙台,JP,https://www.math.tohoku.ac.jp/~koike/kenkyu/shukai/16TohokuNPDEWS.pdf
+2016/5/31,en,poster,,Atsushi Nakayasu?c=nakayasu,Eikonal equations in metric spaces,HJ2016: Hamilton-Jacobi Equations: new trends and applications,INSA Rennes?ja=国立応用科学院レンヌ校,Rennes?ja=レンヌ,FR,http://hj2016.sciencesconf.org/
+2016/5/12,ja,talk,,中安淳?c=nakayasu,Stability properties and large time behavior of viscosity solutions of Hamilton-Jacobi equations on metric spaces,広島数理解析セミナー,広島大学,広島,JP,http://www.math.sci.hiroshima-u.ac.jp/ca/seminar/199.pdf
+2016/3/15,ja,talk,,中安淳?c=nakayasu,A viscosity approach for fully nonlinear PDEs with fractional time derivatives,FMSP院生集中講義,東京大学,東京,JP,http://fmsp.ms.u-tokyo.ac.jp/FMSP20160314-15.pdf
+2016/3/14,ja,talk,,中安淳?c=nakayasu,Homogenization and cell problems for noncoercive quasiconvex Hamiltonians,FMSP院生集中講義,東京大学,東京,JP,http://fmsp.ms.u-tokyo.ac.jp/FMSP20160314-15.pdf
+2016/3/12,en,talk,,Atsushi Nakayasu?c=nakayasu,Homogenization and cell problems for noncoercive quasiconvex Hamiltonians,A3 Joint Seminar on Inverse Problems,Fudan University?ja=復旦大学,Shanghai?ja=上海,CN,
+2016/1/25,ja,talk,,中安淳?c=nakayasu,Hamilton-Jacobi equations in metric spaces,東京確率論セミナー,東京大学,東京,JP,
+2015/12/19,en,poster,,Atsushi Nakayasu?c=nakayasu,Crystalline curvature flow of a graph-like curve and corresponding obstacle problems,International Workshop on Calculus of Variations and its Applications,New University of Lisbon,Caparica?ja=カパリカ,PT,
+2015/12/3,en,talk,,Atsushi Nakayasu?ja=中安淳&c=nakayasu,A viscosity approach for fully nonlinear PDEs with fractional time derivatives,Asymptotic Problems for Partial Differential Equations and Viscosity Solutions,Kyoto University?ja=京都大学,Kyoto?ja=京都,JP,
+2015/10/16,en,talk,,Atsushi Nakayasu?c=nakayasu,Homogenization and cell problems for noncoercive quasiconvex Hamiltonians,Anisotropy 2015,Institute of Mathematics Polish Academy of Sciences?ja=ポーランド科学アカデミー,Warsaw?ja=ワルシャワ,PL,
+2015/8/16,en,poster,,Atsushi Nakayasu?c=nakayasu,On one-dimensional singular diffusion equations with spatially inhomogeneous driving force,Mathematics for Nonlinear Phenomena: Analysis and Computation,Sapporo Convention Center?ja=札幌コンベンションセンター,Sapporo?ja=札幌,JP,
+2015/8/10,en,talk,,Atsushi Nakayasu?c=nakayasu,Stability of crystalline curvature flow of a graph-like curve,The 8th International Congress on Industrial and Applied Mathematics,China National Convention Center?ja=北京国家会議センター,Beijing?ja=北京,CN,
+2015/6/26,en,talk,,Atsushi Nakayasu?c=nakayasu,Homogenization and cell problem for a noncoercive quasiconvex Hamiltonian,"The Hamilton-Jacobi Equation: At the crossroads of PDE, dynamical systems & geometry",Il Palazzone,Cortona?ja=コルトナ,IT,
+2015/3/27,ja,talk,,中安淳?en=Atsushi Nakayasu&c=nakayasu,Two approaches to minimax formula of the additive eigenvalue for quasiconvex Hamiltonians,Viscosity Solutions and Related Topics,早稲田大学,東京,JP,
+2015/2/10,ja,talk,,中安淳?en=Atsushi Nakayasu&c=nakayasu,On stability properties and large time behavior of viscosity solutions of Hamilton-Jacobi equations on metric spaces,若手のための偏微分方程式と数学解析,福岡大学,福岡,JP,
+2014/12/13,en,talk,,Atsushi Nakayasu?c=nakayasu,On general existence results for one-dimensional singular diffusion equations with spatially inhomogeneous driving force,Seoul-Tokyo Conference Applied Partial Differential Equations: Theory and Applications,Korea Institute for Advanced Study?ja=高等科学院,Seoul?ja=ソウル,KR,
+2014/11/14,en,talk,,Atsushi Nakayasu?c=nakayasu,On stability properties and large time behavior of viscosity solutions of Hamilton-Jacobi equations on metric spaces,Antonio Siconolfi's seminar,Sapienza University of Rome?ja=ローマ・ラ・サピエンツァ大学,Rome?ja=ローマ,IT,
+2014/10/17,en,talk,,Atsushi Nakayasu?c=nakayasu,On general existence results for one-dimensional singular diffusion equations with spatially inhomogeneous driving force,Anisotropy 2014,Institute of Mathematics Polish Academy of Sciences?ja=ポーランド科学アカデミー,Warsaw?ja=ワルシャワ,PL,
+2014/9/25,ja,talk,,難波時永?en=Tokinaga Namba&c=namba; 中安淳?en=Atsushi Nakayasu&c=nakayasu; 浜向直?en=Nao Hamamuki&c=hamamuki,On cell problems for Hamilton–Jacobi equations with non-coercive Hamiltonians and its application to homogenization problems,日本数学会2014年度秋季総合分科会,広島大学,東広島,JP,
+2014/8/25,en,poster,,Atsushi Nakayasu?ja=中安淳&c=nakayasu,On metric viscosity solutions for Hamilton-Jacobi equations of evolution type,The 39th Sapporo Symposium on Partial Differential Equations?ja=第39回偏微分方程式論札幌シンポジウム,Hokkaido University?ja=北海道大学,Sapporo?ja=札幌,JP,
+2014/5/9,ja,talk,,中安淳?c=nakayasu,On general existence results for one-dimensional singular diffusion equations with spatially inhomogeneous driving force,京都大学NLPDEセミナー,京都大学,京都,JP,
+2014/3/3,en,talk,,Atsushi Nakayasu?c=nakayasu,Eikonal equations in metric spaces,PDE and Analysis Seminar,University of Pittsburgh?ja=ピッツバーグ大学,Pittsburgh?ja=ピッツバーグ,US,
+2014/2/8,ja,talk,,中安淳?c=nakayasu,Hamilton-Jacobi equations in metric spaces,松山解析セミナー 2014,愛媛大学,松山,JP,
+2013/6/27,en,talk,,Atsushi Nakayasu?c=nakayasu,Hamilton-Jacobi equations in metric spaces,Workshop on nonlinear PDEs --PDE approach to network and related topics--,Tohoku University?ja=東北大学,Sendai?ja=仙台,JP,
+2013/5/20,ja,talk,,中安淳?c=nakayasu,On general existence results for one-dimensional singular diffusion equations with spatially inhomogeneous driving force,偏微分方程式セミナー,北海道大学,札幌,JP,
+2013/3/27,en,talk,,Atsushi Nakayasu?c=nakayasu,On general existence results for one-dimensional singular diffusion equations with spatially inhomogeneous driving force,"Interfaces and Free Boundaries: Analysis, Control and Simulation",Mathematical Research Institute of Oberwolfach?ja=オーバーヴォルファッハ数学研究所,Oberwolfach?ja=オーバーヴォルファッハ,DE,
+2013/3/11,ja,talk,,中安淳?c=nakayasu,Viscosity solutions under various metrics,GCOE Lectures in PDEs by PhD students,東京大学,東京,JP,
+2012/9/20,ja,talk,,中安淳?en=Atsushi Nakayasu&c=nakayasu; 儀我美一?en=Yoshikazu Giga&c=giga; 浜向直?en=Nao Hamamuki&c=hamamuki,Eikonal equations in metric spaces,日本数学会2012年度秋季総合分科会,九州大学,福岡,JP,
+2012/9/3,ja,talk,,中安淳?en=Atsushi Nakayasu&c=nakayasu,Viscosity solutions of Hamilton-Jacobi equations in metric spaces,第34回発展方程式若手セミナー,タナベ経営湘南研修センター,三浦,JP,
+2012/7/30,en,poster,,Atsushi Nakayasu?ja=中安淳&c=nakayasu,Eikonal equations in metric spaces,Variational Methods for Evolving Objects,Hokkaido University?ja=北海道大学,Sapporo?ja=札幌,JP,
+2012/7/12,en,talk,,中安淳?en=Atsushi Nakayasu&c=nakayasu,Eikonal equations in metric spaces,福岡大学談話会,福岡大学,福岡,JP,
+2012/3/6,ja,talk,,中安淳?en=Atsushi Nakayasu&c=nakayasu,Eikonal equations in metric spaces,第13回 非線形偏微分方程式研究会,早稲田大学,東京,JP,
+2012/2/17,en,poster,,Atsushi Nakayasu?ja=中安淳&c=nakayasu,Eikonal equations in metric spaces,The 13th Northeastern Symposium on Mathematical Analysis,Hokkaido University?ja=北海道大学,Sapporo?ja=札幌,JP,
+2011/9/16,ja,talk,,中安淳?c=nakayasu,距離空間上のアイコナール方程式,愛媛大学解析セミナー,愛媛大学,松山,JP,
+
+interact
+begin,end,days,lang,host,workshop,title,place,city,country,url
+2016/9/3,2016/9/11,9,en,,1,"International conference on PDE ""TOWARDS REGULARITY""",Institute of Mathematics Polish Academy of Sciences?ja=ポーランド科学アカデミー,Warsaw?ja=ワルシャワ,PL,
+2016/7/24,2016/7/30,7,en,,1,The Shanghai Workshop on Hamilton-Jacobi equations,Fudan University?ja=復旦大学,Shanghai?ja=上海,CN,
+2016/5/29,2016/6/3,6,en,,1,HJ2016: Hamilton-Jacobi Equations: new trends and applications,INSA Rennes?ja=国立応用科学院レンヌ校,Rennes?ja=レンヌ,FR,
+2016/3/11,2016/3/13,3,en,,1,A3 Joint Seminar on Inverse Problems,Fudan University?ja=復旦大学,Shanghai?ja=上海,CN,
+2015/12/16,2015/12/20,5,en,,1,International Workshop on Calculus of Variations and its Applications,New University of Lisbon,Caparica?ja=カパリカ,PT,
+2015/10/19,2015/10/23,5,en,,,Piotr Rybka,University of Warsaw?ja=ワルシャワ大学,Warsaw?ja=ワルシャワ,PL,
+2015/10/14,2015/10/17,4,en,,1,Anisotropy 2015,Institute of Mathematics Polish Academy of Sciences?ja=ポーランド科学アカデミー,Warsaw?ja=ワルシャワ,PL,
+2015/8/9,2015/8/14,6,en,,1,The 8th International Congress on Industrial and Applied Mathematics,China National Convention Center?ja=北京国家会議センター,Beijing?ja=北京,CN,
+2015/6/21,2015/6/27,7,en,,1,"The Hamilton-Jacobi Equation: At the crossroads of PDE, dynamical systems & geometry",Il Palazzone,Cortona?ja=コルトナ,IT,
+2014/12/12,2014/12/14,3,en,,1,Seoul-Tokyo Conference Applied Partial Differential Equations: Theory and Applications,Korea Institute for Advanced Study?ja=高等科学院,Seoul?ja=ソウル,KR,
+2014/11/8,2014/11/15,8,en,,,Antonio Siconolfi,Sapienza University of Rome?ja=ローマ・ラ・サピエンツァ大学,Rome?ja=ローマ,IT,
+2014/10/14,2014/11/8,26,en,,,Piotr Rybka,University of Warsaw?ja=ワルシャワ大学,Warsaw?ja=ワルシャワ,PL,
+2014/2/20,2014/3/28,37,en,,,Juan J. Manfredi,University of Pittsburgh?ja=ピッツバーグ大学,Pittsburgh?ja=ピッツバーグ,US,
+2013/3/24,2013/3/30,7,en,,1,"Interfaces and Free Boundaries: Analysis, Control and Simulation",Mathematical Research Institute of Oberwolfach?ja=オーバーヴォルファッハ数学研究所,Oberwolfach?ja=オーバーヴォルファッハ,DE,
