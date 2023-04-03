@@ -1,4 +1,4 @@
-﻿publications
+@publications
 author,title,lang,status,preprint,review,journal,year,volume,issue,pages
 Atsushi Nakayasu?c=nakayasu,Two approaches to minimax formula of the additive eigenvalue for quasiconvex Hamiltonians,en,accepted,arXiv:1412.6735,1,Proceedings of the American Mathematical Society?s=Proc. Amer. Math. Soc.,Feb-19,147,2,701-710
 Qing Liu?c=liu; Atsushi Nakayasu?c=nakayasu,Convexity preserving properties for Hamilton-Jacobi equations in geodesic spaces,en,accepted,arXiv:1710.00504,1,Discrete and Continuous Dynamical Systems?s=Discrete Contin. Dyn. Syst.,Jan-19,39,1,157-183
@@ -11,7 +11,7 @@ Yoshikazu Giga?c=giga; Nao Hamamuki?c=hamamuki; Atsushi Nakayasu?c=nakayasu,Eiko
 Atsushi Nakayasu?c=nakayasu,Metric viscosity solutions for Hamilton-Jacobi equations of evolution type,en,published,arXiv:1407.7634,1,Advances in Mathematical Sciences and Applications?s=Adv. Math. Sci. Appl.,2014,24,2,333-351
 Mi-Ho Giga?c=giga; Yoshikazu Giga?c=giga; Atsushi Nakayasu?c=nakayasu,On general existence results for one-dimensional singular diffusion equations with spatially inhomogeneous driving force,en,published,Hokkaido University Preprint Series in Mathematics #1032,1,"Geometric Partial Differential Equations proceedings, CRM Series, Vol. 15, Scuola Normale Superiore Pisa, Pisa",2013,15,,145-170
 
-presentations
+@presentations
 date,lang,type,review,author,title,meeting,place,city,country,url
 2022/2/8,ja,talk,,中安淳?c=nakayasu,Homogenization of Hamilton-Jacobi equations on the Sierpinski gasket,東北大学幾何セミナー,東北大学,仙台,JP,https://sites.google.com/site/aobageometry/
 2021/11/12,ja,talk,,中安淳?c=nakayasu,Homogenization of Hamilton-Jacobi equations on the Sierpinski gasket,偏微分方程式セミナー,北海道大学,札幌,JP,https://www2.sci.hokudai.ac.jp/dept/math/event/7622
@@ -61,7 +61,7 @@ date,lang,type,review,author,title,meeting,place,city,country,url
 2012/2/17,en,poster,,Atsushi Nakayasu?ja=中安淳&c=nakayasu,Eikonal equations in metric spaces,The 13th Northeastern Symposium on Mathematical Analysis,Hokkaido University?ja=北海道大学,Sapporo?ja=札幌,JP,
 2011/9/16,ja,talk,,中安淳?c=nakayasu,距離空間上のアイコナール方程式,愛媛大学解析セミナー,愛媛大学,松山,JP,
 
-interact
+@interact
 begin,end,days,lang,host,workshop,title,place,city,country,url
 2016/9/3,2016/9/11,9,en,,1,"International conference on PDE ""TOWARDS REGULARITY""",Institute of Mathematics Polish Academy of Sciences?ja=ポーランド科学アカデミー,Warsaw?ja=ワルシャワ,PL,
 2016/7/24,2016/7/30,7,en,,1,The Shanghai Workshop on Hamilton-Jacobi equations,Fudan University?ja=復旦大学,Shanghai?ja=上海,CN,

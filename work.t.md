@@ -66,4 +66,4 @@ article ol li { padding-bottom: 1ex; }
    2013,
    [doi:10.1007/978-88-7642-473-1_8](https://doi.org/10.1007/978-88-7642-473-1_8).
 
-<script type="text/plain" id="tresearch">{% file "research.txt" %}</script>
+<script type="text/plain" id="tresearch">{% file "research.csv" %}</script>
