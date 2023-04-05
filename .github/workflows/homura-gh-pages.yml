@@ -59,7 +59,7 @@ jobs:
         with:
           deno-version: v1.x
       - name: Build with Homura
-        run: deno run -A https://deno.land/x/homura_deno/homura.ts build -d=/var/tmp/site
+        run: deno run -A https://deno.land/x/homura_deno@v0.6.4/homura.ts build -d=/var/tmp/site
       - name: Test site
         run: ls -l /var/tmp/site
       - name: Upload artifact
