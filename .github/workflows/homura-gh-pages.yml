@@ -24,6 +24,7 @@ jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
+    container: denoland/deno
     steps:
       - name: Setup Caches deno
         uses: actions/cache@v3
@@ -53,11 +54,6 @@ jobs:
       #   run: ls -l
       - name: Setup Pages
         uses: actions/configure-pages@v2
-      - name: Setup Deno
-        uses: denoland/setup-deno@v1
-        # uses: denoland/setup-deno@004814556e37c54a2f6e31384c9e18e983317366
-        with:
-          deno-version: v1.x
       - name: Build with Homura
         run: deno run -A https://deno.land/x/homura_deno@v0.6.4/homura.ts build -d=/var/tmp/site
       - name: Test site
