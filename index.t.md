@@ -4,14 +4,10 @@ title: Home
 
 ## 中安淳 (Atsushi NAKAYASU, Ph.D.)
 
-<div class="leftfloatbox" style="width:30%;max-width:20em;text-align:center;">
-<img src="profile/img/portrait_20160627.jpg" style="width:70%;border-radius:50%;" />
-<br/>
-<q>
-才能に機会を、努力に対価を
-(Opportunities for Abilities, Value for Effort)
-</q>
-</div>
+![Portrait](profile/img/portrait_20160627.jpg){ style="width:70%;border-radius:50%;" }  
+<q>才能に機会を、努力に対価を
+(Opportunities for Abilities, Value for Effort)</q>
+{ .leftfloatbox style="width:30%;max-width:20em;text-align:center;" }
 
 京都大学大学院理学研究科数学教室 [](https://www.math.kyoto-u.ac.jp/)
 特定助教  
