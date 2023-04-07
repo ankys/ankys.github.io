@@ -98,7 +98,7 @@ Traffic flow
 ## ノート (Notes)
 
 * [微分積分学１](notes/calc1t.pdf)：一変数の微分積分学 [](https://github.com/ankys/calc1t)
-* [線型代数学](notes/linat.pdf)：四則演算のみの線型代数学
+* [線形代数学](notes/linat.pdf)：四則演算のみの線型代数学
 * [二スケール収束とその周辺](notes/tsconvn.pdf) [](https://github.com/ankys/tsconvn)
 
 ## ソフトウェア (Software)
