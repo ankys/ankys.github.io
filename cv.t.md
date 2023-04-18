@@ -26,12 +26,6 @@ title: CV
 
 ## Employment
 
-* *April 2023 – September 2023*:
-  **Part-Time Lecturer**,
-  Faculty of Culture and Information Science, Doshisha University (Kyotanabe, Japan).
-* *October 2019 – March 2020*:
-  **Part-Time Lecturer**,
-  School of Engineering Science, Osaka University (Osaka, Japan).
 * *April 2019 – present*:
   **Program-Specific Assistant Professor**,
   Department of Mathematics, Faculty of Science, Kyoto University (Kyoto, Japan).
@@ -116,6 +110,9 @@ title: CV
 
 ## Teaching Experience
 
+* *April 2023 – September 2023*:
+  **Part-Time Instructor**,
+  Faculty of Culture and Information Science, Doshisha University (Kyotanabe, Japan).
 * *October 2019 – March 2020*:
   **Part-time Instructor**,
   School of Engineering Science, Osaka University (Osaka, Japan).
