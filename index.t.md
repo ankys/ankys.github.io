@@ -42,6 +42,13 @@ Department of Mathematics, Faculty of Science, Kyoto University [](https://www.m
 
 <script type="text/plain" id="tschedule">{% file "schedule.csv" %}</script>
 
+* 隔週火曜日8:45-12:00：授業 (Class)：[線形代数学（演義）A](edu/2304lina/)
+* 毎週火曜日15:00-17:00：研究 (Research)
+* 毎週木曜日14:55-16:25：授業 (Class)：同志社大学：[線形代数](edu/2304linad/)
+* 隔週金曜日8:45-12:00：授業 (Class)：[線形代数学（演義）A](edu/2304lina/)
+* 毎週金曜日16:00-17:00：勉強 (Study)：[京都大学NLPDEセミナー](https://www.kurims.kyoto-u.ac.jp/~nobu/nlpde/)
+* 毎週金曜日17:30-19:30：会議 (Meeting)
+
 ## 研究 (Research)
 
 非線形偏微分方程式論、
