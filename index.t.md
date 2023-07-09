@@ -16,6 +16,7 @@ Department of Mathematics, Faculty of Science, Kyoto University [](https://www.m
 
 `ankysp@@@gmail.com`
 `ankys@@@math.kyoto-u.ac.jp`
+[](https://orcid.org/0000-0002-2008-7321)
 [](https://www.researchgate.net/profile/Atsushi_Nakayasu)
 [](https://github.com/ankys)
 

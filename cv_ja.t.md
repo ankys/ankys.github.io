@@ -10,6 +10,7 @@ title: 経歴
 * `ankysp@@@gmail.com`
   `ankys@@@math.kyoto-u.ac.jp`
 * `https://ankys.github.io/`
+  [](https://orcid.org/0000-0002-2008-7321)
   [](https://www.researchgate.net/profile/Atsushi_Nakayasu)
   [](https://github.com/ankys)
 * Tel: `075-753-3731`
