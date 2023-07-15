@@ -108,8 +108,8 @@ Traffic flow
 
 ## ノート (Notes)
 
-* [微分積分学１](notes/calc1t.pdf)：一変数の微分積分学 [](https://github.com/ankys/calc1t)
-* [線形代数学](notes/linat.pdf)：四則演算のみの線形代数学
+* [微分積分学１](notes/calc1t.pdf)：実一変数の微分積分学 [](https://github.com/ankys/calc1t)
+* [線形代数学１](notes/lina1t.pdf)：四則演算のみの線形代数学 [](https://github.com/ankys/lina1t)
 * [二スケール収束とその周辺](notes/tsconvn.pdf) [](https://github.com/ankys/tsconvn)
 
 ## ソフトウェア (Software)
