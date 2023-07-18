@@ -16,8 +16,9 @@ title: 2023年度京都大学線形代数学（演義）A
 3. 第3回（5月9日授業、5月16日締め切り）　[問題と宿題](t_3_problem.pdf)　[問題解答例](t_3_solution_a.pdf)　[宿題解答例](t_3_solution_b.pdf)
 4. 第4回（5月23日授業、5月30日締め切り）　[問題と宿題](t_4_problem.pdf)　[問題解答例](t_4_solution_a.pdf)　[宿題解答例](t_4_solution_b.pdf)
 5. 第5回（6月6日授業、6月13日締め切り）　[問題と宿題](t_5_problem.pdf)　[問題解答例](t_5_solution_a.pdf)　[宿題解答例](t_5_solution_b.pdf)
-6. 第6回（6月20日授業、6月27日締め切り）　[問題と宿題](t_6_problem.pdf)　[問題解答例](t_6_solution_a.pdf)　宿題解答例
+6. 第6回（6月20日授業、6月27日締め切り）　[問題と宿題](t_6_problem.pdf)　[問題解答例](t_6_solution_a.pdf)　[宿題解答例](t_6_solution_b.pdf)
 7. 第7回（7月4日授業、7月11日締め切り）　[問題と宿題](t_7_problem.pdf)　[問題解答例](t_7_solution_a.pdf)　宿題解答例
+8. 補充問題（7月18日）　[問題](t_8_problem.pdf)　[解答例](t_8_solution.pdf)
 
 ## 配布物（T14/T16クラス）
 
