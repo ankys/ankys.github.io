@@ -115,7 +115,8 @@ Traffic flow
 ## ソフトウェア (Software)
 
 * [Makefile](serv/tex/Makefile) and [tex.pl](serv/tex/tex.pl) for TeX
-* [Homura](https://github.com/ankys/homura_deno): A general-purpose static site generator
+* [Homura](https://github.com/ankys/homura_deno): A general-purpose static site generator [](https://github.com/ankys/homura_deno)
+* [PosterDivider2](https://ankys.github.io/posterdivider2/posterdivider.html): 画像やPDFをいくつかのページに分割 [](https://github.com/ankys/posterdivider2)
 
 ## 連絡先 (Contact)
 
