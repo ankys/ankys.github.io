@@ -26,6 +26,6 @@ title: 2023年度京都大学線形代数学（演義）A
 2. 第2回（4月28日授業、5月12日締め切り）　[問題と宿題](f_2_problem.pdf)　[問題解答例](f_2_solution_a.pdf)　[宿題解答例](f_2_solution_b.pdf)
 3. 第3回（5月19日授業、5月26日締め切り）　[問題と宿題](f_3_problem.pdf)　[問題解答例](f_3_solution_a.pdf)　[宿題解答例](f_3_solution_b.pdf)
 4. 第4回（6月2日授業、6月9日締め切り）　[問題と宿題](f_4_problem.pdf)　[問題解答例](f_4_solution_a.pdf)　[宿題解答例](f_4_solution_b.pdf)
-5. 第5回（6月16日授業、6月23日締め切り）　[問題と宿題](f_5_problem.pdf)　[問題解答例](f_5_solution_a.pdf)　宿題解答例
-6. 第6回（6月30日授業、7月7日締め切り）　[問題と宿題](f_6_problem.pdf)　[問題解答例](f_6_solution_a.pdf)　宿題解答例
-7. 第7回（7月14日授業、7月21日締め切り）　[問題と宿題](f_7_problem.pdf)　[問題解答例](f_7_solution_a.pdf)　宿題解答例
+5. 第5回（6月16日授業、6月23日締め切り）　[問題と宿題](f_5_problem.pdf)　[問題解答例](f_5_solution_a.pdf)　[宿題解答例](f_5_solution_b.pdf)
+6. 第6回（6月30日授業、7月7日締め切り）　[問題と宿題](f_6_problem.pdf)　[問題解答例](f_6_solution_a.pdf)　[宿題解答例](f_6_solution_b.pdf)
+7. 第7回（7月14日授業、7月21日締め切り）　[問題と宿題](f_7_problem.pdf)　[問題解答例](f_7_solution_a.pdf)　[宿題解答例](f_7_solution_b.pdf)
