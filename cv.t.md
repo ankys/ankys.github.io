@@ -85,6 +85,11 @@ title: CV
 
 ## Grants
 
+* *August 2023 - March 2024*:
+  Application and generalization of stability of viscosity solutions,
+  **Ginpu Fund Research Grant**,
+  500,000JPY,
+  Kyoto University.
 * *April 2019 - March 2022*:
   **Grant-in-Aid for Early-Career Scientists**,
   Principal Investigator,
