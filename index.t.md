@@ -87,6 +87,8 @@ Traffic flow
 * 一般化された空間上の非線形偏微分方程式
 * [距離空間上の粘性解の基礎と応用](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-19K14566/)
   ([English](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K14566/))
+* 粘性解の安定性の応用と一般化 (Application and generalization of stability of viscosity solutions)
+  [ポスター (Poster)](res/2308ginpu.pdf)
 
 ## 教育 (Education)
 
