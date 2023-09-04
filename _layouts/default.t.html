@@ -2,6 +2,7 @@
 <html{% if lang %} lang="{{ lang }}"{% endif %}>
 <head>
 <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ [title, site.title] | select | join(" | ") }}</title>
 <meta name="author" content="{{ author or site.author }}" />
 <meta name="keywords" content="{{ [keywords | default([]) | join(", "), site.keywords | default([]) | join(", ")] | select | join(", ") }}" />

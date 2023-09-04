@@ -1,5 +1,6 @@
 ---
 title: CV
+lang: en
 ---
 
 ## Atsushi NAKAYASU （中安淳）
