@@ -43,12 +43,11 @@ Department of Mathematics, Faculty of Science, Kyoto University [](https://www.m
 
 <script type="text/plain" id="tschedule">{% file "schedule.csv" %}</script>
 
-* 隔週火曜日8:45-12:00：授業 (Class)：[線形代数学（演義）A](edu/2304lina/)
+* 毎週月曜日13:15-14:45：授業 (Class)：[微分積分学（講義）Ｂ](edu/2310calc/)
+* 隔週火曜日8:45-12:00：授業 (Class)：[微分積分学（演義）Ｂ](edu/2310calc/)
 * 毎週火曜日15:00-17:00：研究 (Research)
-* 毎週木曜日14:55-16:25：授業 (Class)：同志社大学：[線形代数](edu/2304linad/)
-* 隔週金曜日8:45-12:00：授業 (Class)：[線形代数学（演義）A](edu/2304lina/)
+* 毎週金曜日12:00-14:00：授業 (Class)：オフィスアワー (Office hour)
 * 毎週金曜日16:00-17:00：勉強 (Study)：[京都大学NLPDEセミナー](https://www.kurims.kyoto-u.ac.jp/~nobu/nlpde/)
-* 毎週金曜日17:30-19:30：会議 (Meeting)
 
 ## 研究 (Research)
 
@@ -96,11 +95,7 @@ Traffic flow
 
 京都大学国際高等教育院（特定助教） [](https://www.z.k.kyoto-u.ac.jp/)
 
-* [2023年度京都大学線形代数学（演義）A](edu/2304lina/)
-
-同志社大学文化情報学部（嘱託講師）
-
-* [2023年度同志社大学線形代数](edu/2304linad/)
+* [2023年度京都大学微分積分学（講義・演義）Ｂ](edu/2310calc/)
 
 [全ての授業](edu/)
 
@@ -111,6 +106,7 @@ Traffic flow
 ## ノート (Notes)
 
 * [微分積分学１](notes/calc1t.pdf)：実一変数の微分積分学 [](https://github.com/ankys/calc1t)
+* [微分積分学２](notes/calc2t.pdf)：実多変数の微分積分学
 * [線形代数学１](notes/lina1t.pdf)：四則演算のみの線形代数学 [](https://github.com/ankys/lina1t)
 * [二スケール収束とその周辺](notes/tsconvn.pdf) [](https://github.com/ankys/tsconvn)
 
