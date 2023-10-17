@@ -1,7 +1,8 @@
 @publications
-author,title,lang,status,preprint,review,journal,year,volume,issue,pages
-Atsushi Nakayasu?c=nakayasu,Two approaches to minimax formula of the additive eigenvalue for quasiconvex Hamiltonians,en,accepted,arXiv:1412.6735,1,Proceedings of the American Mathematical Society?s=Proc. Amer. Math. Soc.,Feb-19,147,2,701-710
-Qing Liu?c=liu; Atsushi Nakayasu?c=nakayasu,Convexity preserving properties for Hamilton-Jacobi equations in geodesic spaces,en,accepted,arXiv:1710.00504,1,Discrete and Continuous Dynamical Systems?s=Discrete Contin. Dyn. Syst.,Jan-19,39,1,157-183
+author,title,lang,status,preprint,review,journal,year,volume,issue,pages,doi
+Shimpei Makida?c=makida; Atsushi Nakayasu?c=nakayasu,Stability of metric viscosity solutions under Hausdorff convergence,en,submitted,arXiv:2310.07420,,,,,,
+Atsushi Nakayasu?c=nakayasu,Two approaches to minimax formula of the additive eigenvalue for quasiconvex Hamiltonians,en,published,arXiv:1412.6735,1,Proceedings of the American Mathematical Society?s=Proc. Amer. Math. Soc.,Feb-19,147,2,701-710
+Qing Liu?c=liu; Atsushi Nakayasu?c=nakayasu,Convexity preserving properties for Hamilton-Jacobi equations in geodesic spaces,en,published,arXiv:1710.00504,1,Discrete and Continuous Dynamical Systems?s=Discrete Contin. Dyn. Syst.,Jan-19,39,1,157-183
 Atsushi Nakayasu?c=nakayasu; Tokinaga Namba?c=namba,Stability properties and large time behavior of viscosity solutions of Hamilton-Jacobi equations on metric spaces,en,published,arXiv:1602.00530,1,Nonlinearity,2018,31,11,5147-5161
 Atsushi Nakayasu?c=nakayasu; Piotr Rybka?c=rybka,Integrability of the derivative of solutions to a singular one-dimensional parabolic problem,en,published,arXiv:1705.08469,1,Topological Methods in Nonlinear Analysis?s=Topol. Methods Nonlinear Anal.,2018,52,1,239-257
 蕭冬遠; 張龍傑; 中安淳; 若林泰央,協同組合の数理解析,ja,published,,1,数理科学実践研究レター,2018,,,LMSR 2018-8
@@ -63,6 +64,7 @@ date,lang,type,review,author,title,meeting,place,city,country,url
 
 @interact
 begin,end,days,lang,host,workshop,title,place,city,country,url
+2023/10/3,2023/10/13,11,ja,1,,牧田慎平,京都大学,京都,JP,
 2023/3/13,2023/3/24,12,ja,1,,牧田慎平,京都大学,京都,JP,
 2023/1/30,2023/1/31,2,en,1,1,The 8th KTGU Mathematics Workshop for Young Researchers,Kyoto University,Kyoto,JP,https://www.math.kyoto-u.ac.jp/workshop/ktgu_yr/8thWorkshop/
 2022/2/14,2022/2/15,2,en,1,1,The 7th KTGU Mathematics Workshop for Young Researchers,Kyoto University,Kyoto,JP,https://www.math.kyoto-u.ac.jp/workshop/ktgu_yr/7thWorkshop/

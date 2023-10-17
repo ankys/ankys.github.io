@@ -8,6 +8,14 @@ article ol li { padding-bottom: 1ex; }
 
 ## 出版物 (Publications)
 
+### プレプリント (Preprints)
+
+1. S. Makida, A. Nakayasu,
+   *Stability of metric viscosity solutions under Hausdorff convergence*,
+   [arXiv:2310.07420](https://arxiv.org/abs/2310.07420).
+
+### 論文 (Papers)
+
 1. A. Nakayasu,
    *Two approaches to minimax formula of the additive eigenvalue for quasiconvex Hamiltonians*,
    **Proc. Amer. Math. Soc.** 147, no. 2, 701-710,
@@ -32,11 +40,6 @@ article ol li { padding-bottom: 1ex; }
    Sep. 2018,
    [arXiv:1705.08469](https://arxiv.org/abs/1705.08469),
    [doi:10.12775/TMNA.2018.031](https://doi.org/10.12775/TMNA.2018.031).
-1. 蕭冬遠、張龍傑、中安淳、若林泰央、
-   *協同組合の数理解析*、
-   **数理科学実践研究レター**、LMSR 2018-8、
-   2018年7月、
-   [http://www.ms.u-tokyo.ac.jp/lmsr/pdf/2018-8.pdf](http://www.ms.u-tokyo.ac.jp/lmsr/pdf/2018-8.pdf)。
 1. A. Nakayasu, P. Rybka,
    *Energy solutions to one-dimensional singular parabolic problems with BV data are viscosity solutions*,
    **Mathematics for Nonlinear Phenomena - Analysis and Computation**, 195-213,
@@ -65,5 +68,17 @@ article ol li { padding-bottom: 1ex; }
    **Geometric Partial Differential Equations proceedings**, 145-170,
    2013,
    [doi:10.1007/978-88-7642-473-1_8](https://doi.org/10.1007/978-88-7642-473-1_8).
+
+### その他 (Misc)
+
+1. 中安淳、森田陽介、
+   *京都大学ガロア祭／問題と解説*、
+   **数学セミナー** 722、56-61
+   2021年11月。
+1. 蕭冬遠、張龍傑、中安淳、若林泰央、
+   *協同組合の数理解析*、
+   **数理科学実践研究レター**、LMSR 2018-8、
+   2018年7月、
+   [http://www.ms.u-tokyo.ac.jp/lmsr/pdf/2018-8.pdf](http://www.ms.u-tokyo.ac.jp/lmsr/pdf/2018-8.pdf)。
 
 <script type="text/plain" id="tresearch">{% file "research.csv" %}</script>
