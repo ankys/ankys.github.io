@@ -8,8 +8,7 @@ lang: en
 * Program-Specific Assistant Professor
 * Department of Mathematics, Faculty of Science, Kyoto University [](https://www.math.kyoto-u.ac.jp/en)
 * Department of Mathematics, Faculty of Science, Kyoto University, Kitashirakawa Oiwake-cho, Sakyo-ku, Kyoto, 606-8502 Japan
-* `ankysp@@@gmail.com`
-  `ankys@@@math.kyoto-u.ac.jp`
+* `ankys@@@math.kyoto-u.ac.jp`
 * `https://ankys.github.io/`
   [](https://orcid.org/0000-0002-2008-7321)
   [](https://www.researchgate.net/profile/Atsushi_Nakayasu)

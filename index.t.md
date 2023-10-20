@@ -14,7 +14,6 @@ title: Home
 Program-Specific Assistant Professor,
 Department of Mathematics, Faculty of Science, Kyoto University [](https://www.math.kyoto-u.ac.jp/en)
 
-`ankysp@@@gmail.com`
 `ankys@@@math.kyoto-u.ac.jp`
 [](https://orcid.org/0000-0002-2008-7321)
 [](https://www.researchgate.net/profile/Atsushi_Nakayasu)
@@ -120,7 +119,6 @@ Traffic flow
 ## 連絡先 (Contact)
 
 Email:
-`ankysp@@@gmail.com`
 `ankys@@@math.kyoto-u.ac.jp`  
 Website:
 `https://ankys.github.io/`
