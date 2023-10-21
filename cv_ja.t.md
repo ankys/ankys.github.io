@@ -10,9 +10,6 @@ lang: ja
 * 〒606-8502　京都市左京区北白川追分町　京都大学理学部数学教室
 * `ankys@@@math.kyoto-u.ac.jp`
 * `https://ankys.github.io/`
-  [](https://orcid.org/0000-0002-2008-7321)
-  [](https://www.researchgate.net/profile/Atsushi_Nakayasu)
-  [](https://github.com/ankys)
 * Tel: `075-753-3731`
   Fax: `075-753-3711`
 * 事務所：理学部3号館153号室

@@ -76,8 +76,9 @@ Traffic flow
 
 [研究業績 (Research work)](work.html)
 
-[ResearchGate](https://www.researchgate.net/profile/Atsushi_Nakayasu)
 [ORCID](https://orcid.org/0000-0002-2008-7321)
+[Google Scholar‬](https://scholar.google.com/citations?user=6TrBAN4AAAAJ)
+[ResearchGate](https://www.researchgate.net/profile/Atsushi_Nakayasu)
 [Researchmap](https://researchmap.jp/ankys/)
 
 プロジェクト (Projects)
@@ -116,14 +117,14 @@ Traffic flow
 * [PosterDivider2](https://ankys.github.io/posterdivider2/posterdivider.html): 画像やPDFをいくつかのページに分割 [](https://github.com/ankys/posterdivider2)
 * [科研費Markdown](https://ankys.github.io/kaken.md/): Markdownで科研費の書類を記述 [](https://github.com/ankys/kaken.md)
 
+[GitHub](https://github.com/ankys)
+
 ## 連絡先 (Contact)
 
 Email:
 `ankys@@@math.kyoto-u.ac.jp`  
 Website:
 `https://ankys.github.io/`
-[](https://www.researchgate.net/profile/Atsushi_Nakayasu)
-[](https://github.com/ankys)
 
 Tel:
 `075-753-3731`

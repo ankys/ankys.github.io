@@ -10,9 +10,6 @@ lang: en
 * Department of Mathematics, Faculty of Science, Kyoto University, Kitashirakawa Oiwake-cho, Sakyo-ku, Kyoto, 606-8502 Japan
 * `ankys@@@math.kyoto-u.ac.jp`
 * `https://ankys.github.io/`
-  [](https://orcid.org/0000-0002-2008-7321)
-  [](https://www.researchgate.net/profile/Atsushi_Nakayasu)
-  [](https://github.com/ankys)
 * Tel: `+81 75 753 3731`
   Fax: `+81 75 753 3711`
 * Office: Room 153, Graduate School of Science Bldg No 3
