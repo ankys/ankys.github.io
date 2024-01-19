@@ -32,8 +32,8 @@ title: 2023年度京都大学微分積分学（講義・演義）Ｂ
 1. 第1回（10月3日授業、10月10日締め切り）　[問題と宿題](problem_1.pdf)　[問題解答例](solution_1a.pdf)　[宿題解答例](solution_1b.pdf)
 2. 第2回（10月17日授業、10月24日締め切り）　[問題と宿題](problem_2.pdf)　[問題解答例](solution_2a.pdf)　[宿題解答例](solution_2b.pdf)
 3. 第3回（10月31日授業、11月7日締め切り）　[問題と宿題](problem_3.pdf)　[問題解答例](solution_3a.pdf)　[宿題解答例](solution_3b.pdf)
-4. 第4回（11月14日授業、11月21日締め切り）　[問題と宿題](problem_4.pdf)　[問題解答例](solution_4a.pdf)　宿題解答例
-5. 第5回（11月28日授業、12月5日締め切り）　[問題と宿題](problem_5.pdf)　[問題解答例](solution_5a.pdf)　宿題解答例
-6. 第6回（12月12日授業、12月19日締め切り）　[問題と宿題](problem_6.pdf)　[問題解答例](solution_6a.pdf)　宿題解答例
-7. 第7回（1月9日授業、1月16日締め切り）　[問題と宿題](problem_7.pdf)　[問題解答例](solution_7a.pdf)　宿題解答例
+4. 第4回（11月14日授業、11月21日締め切り）　[問題と宿題](problem_4.pdf)　[問題解答例](solution_4a.pdf)　[宿題解答例](solution_4b.pdf)
+5. 第5回（11月28日授業、12月5日締め切り）　[問題と宿題](problem_5.pdf)　[問題解答例](solution_5a.pdf)　[宿題解答例](solution_5b.pdf)
+6. 第6回（12月12日授業、12月19日締め切り）　[問題と宿題](problem_6.pdf)　[問題解答例](solution_6a.pdf)　[宿題解答例](solution_6b.pdf)
+7. 第7回（1月9日授業、1月16日締め切り）　[問題と宿題](problem_7.pdf)　[問題解答例](solution_7a.pdf)　[宿題解答例](solution_7b.pdf)
 8. 補充問題（1月16日出題）　[問題](problem_8.pdf)　[解答例](solution_8.pdf)
